@@ -8,4 +8,4 @@
 * chima ifeanyi thankgod
 * i made another commit because, i am struggling in learning and i am not sure of myself 
 
-
+* merge me please
